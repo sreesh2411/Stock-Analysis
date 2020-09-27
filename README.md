@@ -3,3 +3,18 @@ A brief analysis of the stock prices of three automobile companies: General Moto
 
 ## Overview
 Stock Analysis is done on historic data so as to predict the trends which may occur in the future. Here we observe the stock prices of three companies, Tesla, Ford and GM in the 5 year range from 2012 to 2016. We also see if there is any relation between the three companies' stocks, calculating the Moving Average (MA), observing the Daily Percentage Change and the Volatility, and Cumulative Return. Tools used are Pandas, Numpy, MatplotLib, Datareader, Scatter Matrix, Candlestick Chart, Box Plots.
+
+## Table of Contents
+1  Stock Analysis of Tesla, Ford, and General Motors from 2012 to 2017
+2  Analyzing Google Stocks
+3  Analyzing Stock of Three companies : Tesla, Ford and General Motors (GM)
+3.1  We will be analyzing the stock prices of these three companies by collecting the data from 1 Jan 2012 to 1 Jan 2017 (5 years).
+3.1.1  CNN Business' article: https://money.cnn.com/2013/12/18/news/companies/ford-profit/index.html
+3.1.2  CNBC's article: https://www.cnbc.com/2013/12/18/fords-stock-dives-as-company-warns-on-overseas-profits.html
+3.1.3  CNN Business' article : https://money.cnn.com/2014/02/25/investing/tesla-record-high/
+3.2  
+3.3  
+3.3.1  Candlestick Chart
+3.4  Daily Percentage Change
+3.5  Volatility
+4  Cumulative Return

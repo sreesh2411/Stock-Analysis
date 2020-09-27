@@ -6,15 +6,15 @@ Stock Analysis is done on historic data so as to predict the trends which may oc
 
 ## Table of Contents
 1  Stock Analysis of Tesla, Ford, and General Motors from 2012 to 2017<br>
-2  Analyzing Google Stocks
-3  Analyzing Stock of Three companies : Tesla, Ford and General Motors (GM)
-3.1  We will be analyzing the stock prices of these three companies by collecting the data from 1 Jan 2012 to 1 Jan 2017 (5 years).
-3.1.1  CNN Business' article: https://money.cnn.com/2013/12/18/news/companies/ford-profit/index.html
-3.1.2  CNBC's article: https://www.cnbc.com/2013/12/18/fords-stock-dives-as-company-warns-on-overseas-profits.html
-3.1.3  CNN Business' article : https://money.cnn.com/2014/02/25/investing/tesla-record-high/
-3.2  
-3.3  
-3.3.1  Candlestick Chart
-3.4  Daily Percentage Change
-3.5  Volatility
-4  Cumulative Return
+2  Analyzing Google Stocks<br>
+3  Analyzing Stock of Three companies : Tesla, Ford and General Motors (GM)<br>
+3.1  We will be analyzing the stock prices of these three companies by collecting the data from 1 Jan 2012 to 1 Jan 2017 (5 years).<br>
+3.1.1  CNN Business' article: https://money.cnn.com/2013/12/18/news/companies/ford-profit/index.html<br>
+3.1.2  CNBC's article: https://www.cnbc.com/2013/12/18/fords-stock-dives-as-company-warns-on-overseas-profits.html<br>
+3.1.3  CNN Business' article : https://money.cnn.com/2014/02/25/investing/tesla-record-high/<br>
+3.2  Moving Average<br>
+3.3  Correlation and Scatter Matrix<br>
+3.3.1  Candlestick Chart<br>
+3.4  Daily Percentage Change<br>
+3.5  Volatility<br>
+4  Cumulative Return<br>

@@ -24,5 +24,4 @@ Link: https://in.finance.yahoo.com/
 4  Cumulative Return<br>
 
 ## Some Visualizations:
-• Graph of Google Stocks
-![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20214909.png)
+• Graph of Google Stocks![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20214909.png)

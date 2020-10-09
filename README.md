@@ -23,8 +23,10 @@ Link: https://in.finance.yahoo.com/
 &nbsp;&nbsp;&nbsp;3.5  Volatility<br>
 4  Cumulative Return<br>
 
-## Some Visualizations:
+## Some Visualizations
+Google Stock prices:
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20214909.png)
+abc:
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20214954.png)
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20215147.png)
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20215227.png)

@@ -6,7 +6,7 @@ Stock Analysis is done on historic data so as to predict the trends which may oc
 
 ## Data
 The Data is collected from Yahoo Finance. Stocks of Tesla, Ford and GM are collected using DataReader.<br/>
-https://in.finance.yahoo.com/
+Link: https://in.finance.yahoo.com/
 
 ## Table of Contents
 1  Stock Analysis of Tesla, Ford, and General Motors from 2012 to 2017<br>
@@ -22,3 +22,7 @@ https://in.finance.yahoo.com/
 &nbsp;&nbsp;&nbsp;3.4  Daily Percentage Change<br>
 &nbsp;&nbsp;&nbsp;3.5  Volatility<br>
 4  Cumulative Return<br>
+
+## Some Visualizations:
+• Graph of Google Stocks
+![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20214909.png)

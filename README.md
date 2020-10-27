@@ -24,8 +24,6 @@ Link: https://in.finance.yahoo.com/
 4  Cumulative Return<br>
 
 ## Some Visualizations
-Candlestick chart for Ford Stocks in jaunary 2012:
-![](https://github.com/sreesh2411/stock-analysis/blob/master/images/candlestick.png)
 Comparison of Volume traded by Tesla, Ford and GM:
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20214909.png)
 Comparison of Cumulative Return over time:

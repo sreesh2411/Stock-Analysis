@@ -39,3 +39,4 @@ Analysing Google's Opening, High, Closing and Low prices in 2020 until May:
 Candlestick chart for Ford Stocks in jaunary 2012:
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/candlestick.png)
 
+

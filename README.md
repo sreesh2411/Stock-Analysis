@@ -36,4 +36,6 @@ Comparison of Opening prices of Tesla, GM and Ford:
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20215303.png)
 Analysing Google's Opening, High, Closing and Low prices in 2020 until May:
 ![](https://github.com/sreesh2411/stock-analysis/blob/master/images/Screenshot%202020-10-09%20215745.png)
+Candlestick chart for Ford Stocks in jaunary 2012:
+![](https://github.com/sreesh2411/stock-analysis/blob/master/images/candlestick.png)
 
